@@ -27,3 +27,5 @@ ax.set_title("Quantidade de Diretores por Gênero")
 
 
 st.pyplot(fig)
+
+st.write("Assim, podemos perceber que as inteligencias artificias possuem um viés, ainda, muito 'homem centrado'")
