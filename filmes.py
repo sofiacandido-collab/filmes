@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.title("Gráfico no Streamlit")
 
-st.write("Este site analisa uma lista de filmes gerada por uma IA (ChatGPT) e analisa a representatividade feminina nas IAs"
+st.write("Este site analisa uma lista de filmes gerada por uma IA (ChatGPT) e analisa a representatividade feminina nas IAs")
 
 df = pd.read_csv("filmes.csv")
 
